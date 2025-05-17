@@ -1,0 +1,34 @@
+[
+   {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio",
+    "category": "basicweb",
+    "links": {
+      "view": "https://priyanshijayant.netlify.app/",
+      "code": "#"
+    }
+  },
+
+  {
+    "name": "EMS",
+    "desc": "Employee Management System (EMS) allowing users to create, edit, and view tasks efficiently",
+    "image": "ems",
+    "category": "ReactJS",
+    "links": {
+      "view": "https://drive.google.com/file/d/1zincl3qNkHsDxNzR_R-VDMzDIC88Um0w/view?usp=sharing",
+      "code": "https://github.com/priyu9-star/Employee-Management-System-ems-"
+    }
+  },
+  
+  {
+    "name": "Caption Generator",
+    "desc": "Developed a web-based AI application that generates accurate medical captions for uploaded X-ray or medical images.",
+    "image": "Caption",
+    "category": "MLbased",
+    "links": {
+      "view": "https://drive.google.com/file/d/1ibCt6BuwdvftH6iCqDEXJb2DC2J3aRyL/view?usp=sharing",
+      "code": "https://github.com/priyu9-star/Caption-Generator-for-Medical-Images"
+    }
+  }
+]
